@@ -1,14 +1,12 @@
-## Here to see my projects?
-There's a lot, but here are some related to AI:
+## Recent Projects
 
-### 🤖 [AI Vulnerability Detection](https://github.com/Boden-C/classifier)
-A research paper in a machine learning pipeline for automated vulnerability detection in C functions. Combines manual string-based metrics, AST (Abstract Syntax Tree) analysis, and TF-IDF vectorization to capture both syntactic and semantic code properties.
+### ☀️ 2025 Summer - [AI Research Paper](https://github.com/Boden-C/classifier)
+Research into applying a machine learning pipeline that uses Abstract Syntax Trees to identify vulnerabilities in C code.
+<br><br>
 
-### 📚 [Phosphorus AI](https://github.com/Boden-C/phosphorus)
-A Django/MySQL-based library management system with full AI integration to all backend API for managing books, borrowers, loans, and fines, with a focus on maintainability, data integrity, and ease of use for library staff.
+### 🌸 2025 Spring - [Project Phosphorus](https://github.com/Boden-C/phosphorus)
+Proof of concept for a fully integrated AI for a full-stack and database application. The AI is designed to manage an entire library, handling tasks from organization to user requests.
+<br><br>
 
-### 🏢 [Sentinel AI](https://github.com/Boden-C/sentinel)
-Sentinel is a multi-building management tool that uses AI to provide centralized monitoring and control. It optimizes energy, manages environmental conditions, and integrates with renewables using predictive analytics and machine vision.
-
-### More?
-Sure! More projects that cover many fields are pinned below:
+### Anything else in other fields?
+Sure! More projects that cover everything from web dev to  are pinned below:
