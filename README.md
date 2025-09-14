@@ -1,3 +1,7 @@
+<a href="https://github.com/Boden-C/evolution">
+  <img src="https://github.com/Boden-C/evolution/blob/main/docs/assets/card.svg" alt="Click to see the latest AI in the Evolution Series, Elevation" align="right" height="480">
+</a>
+
 ## Recent Projects
 
 ### ☀️ 2025 Summer - [AI Research Paper](https://github.com/Boden-C/classifier)
@@ -9,4 +13,4 @@ Proof of concept for a fully integrated AI for a full-stack and database applica
 <br><br>
 
 ### Anything else in other fields?
-Sure! More projects that cover everything from web dev to  are pinned below:
+Projects that cover everything from web dev to libraries are below:
