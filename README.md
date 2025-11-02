@@ -1,5 +1,5 @@
 <a href="https://github.com/Boden-C/evolution">
-  <img src="https://github.com/Boden-C/evolution/blob/main/docs/assets/card.svg" alt="Click to see the latest AI in the Evolution Series, Elevation" align="right" height="480">
+  <img src="https://github.com/Boden-C/evolution/blob/main/docs/assets/card.svg" alt="Click to see the latest AI in the Evolution Series, Elevation" align="right" height="450">
 </a>
 
 ## Recent Projects
